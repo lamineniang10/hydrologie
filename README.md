@@ -10,6 +10,8 @@ Ce projet simule et analyse le débordement du fleuve Gambie entre les stations 
 ## Données & hypothèses
 - MNT à 100 m de résolution spatiale.
 - LDD (flow direction) dérivé pour simuler l’écoulement.
+- Données de crue: https://mha.gouv.sn/la-situation-hydrologique-et-alerte-de-crue-sur-les-fleuves-senegal-et-gambie-du-11-octobre-2024/
+- Coordonnées des stations Kédougou et Mako: HSM-SIEREM 2016
 - Certaines données, comme la **capacité du lit du fleuve** et le **débit de base par cellule**, n’étant pas disponibles, ont été **reconstituées de manière fictive mais cohérente** pour assurer le bon fonctionnement du modèle.
 
 ## Outils
@@ -23,3 +25,6 @@ Python avec les bibliothèques:
 ## Résultat
 Simulation dynamique en pas de temps du débordement et du flux entre les stations, avec visualisation cartographique.  
 ➡️ Tous les détails sont disponibles dans le notebook `.ipynb`.
+
+## Contact 
+Email: sidiniang20@gmailcom
