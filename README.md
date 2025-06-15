@@ -3,7 +3,7 @@
 Ce projet simule et analyse le débordement du fleuve Gambie entre les stations hydrologiques de Kédougou et Mako, en utilisant un modèle hydrodynamique spatial basé sur PCRaster.
 
 ## Objectifs
-- Modéliser l’évolution du débit et du niveau d’eau dans un sous-bassin du fleuve Gambie.
+- Modéliser l’évolution du débit et du niveau d’eau du fleuve Gambie.
 - Identifier les zones potentiellement saturées ou débordées.
 - Estimer la hauteur de l'eau à Mako.
 
