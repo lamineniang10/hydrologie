@@ -1,4 +1,4 @@
-# Modélisation du débordement dans le bassin du fleuve Gambie (stations de Kédougou et Mako) – Juillet 2024
+# Modélisation du débordement dans le bassin du fleuve Gambie (stations de Kédougou et Mako) – Octobre 2024
 
 Ce projet simule et analyse le débordement du fleuve Gambie entre les stations hydrologiques de Kédougou et Mako, en utilisant un modèle hydrodynamique spatial basé sur PCRaster.
 
