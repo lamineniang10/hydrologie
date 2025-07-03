@@ -5,7 +5,6 @@ Ce projet simule et analyse le débordement du fleuve Gambie entre les stations 
 ## Objectifs
 - Modéliser l’évolution du débit et du niveau d’eau du fleuve Gambie.
 - Identifier les zones potentiellement saturées ou débordées.
-- Estimer la hauteur de l'eau à Mako.
 
 ## Données & hypothèses
 - MNT à 100 m de résolution spatiale.
@@ -25,6 +24,9 @@ Python avec les bibliothèques:
 ## Résultat
 Simulation dynamique en pas de temps du débordement et du flux entre les stations, avec visualisation cartographique.  
 ➡️ Tous les détails sont disponibles dans le notebook `.ipynb`.
+
+## Contributions
+Toutes les suggestions, retours, ou contributions sont les bienvenus afin d'améliorer et enrichir ce projet.
 
 ## Contact 
 Email: sidiniang20@gmailcom
