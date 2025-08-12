@@ -23,7 +23,7 @@ Python avec les bibliothèques:
 
 ## Résultat
 Simulation dynamique en pas de temps du débordement et du flux entre les stations, avec visualisation cartographique.  
-➡️ Tous les détails sont disponibles dans le notebook `.ipynb`.
+➡️ [Tous les détails sont disponibles dans le notebook](https://github.com/lamineniang10/hydrologie/blob/main/modelisation-des-debordements-du-fleuve-gambie.ipynb) `.ipynb`.
 
 ## Contributions
 Toutes les suggestions, retours, ou contributions sont les bienvenus afin d'améliorer et enrichir ce projet.
